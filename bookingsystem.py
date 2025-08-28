@@ -1,6 +1,6 @@
 
 import string
-# haha yolo! asmr is cool
+# haha yolo! asmr is cool aaaaaaaa
 class plane: #Create a dedicated plane class, allowing multiple planes.
   def __init__(self):
     self.businessclass = [['X', 'X', 'X', 'X', '', '', '', ''], # The seats as given
