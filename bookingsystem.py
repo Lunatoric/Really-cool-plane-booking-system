@@ -1,5 +1,6 @@
-import string # Used for letters
-  
+
+import string
+
 class plane: #Create a dedicated plane class, allowing multiple planes.
   def __init__(self):
     self.businessclass = [['X', 'X', 'X', 'X', '', '', '', ''], # The seats as given
